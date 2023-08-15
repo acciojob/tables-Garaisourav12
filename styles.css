@@ -28,7 +28,8 @@ th{
 }
 
 tfoot td{
-	border-top: 1px solid black;
+	border-top: 2px solid black;
+	border-bottom: 1px solid silver;
 	padding: 5px 5px;
 	background-color: #f8f9fb;
 }
